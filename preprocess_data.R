@@ -24,3 +24,5 @@ for (i in 1:n) {
 }
 coords = cbind(coords,avg_temp)
 View(coords)
+
+# TOP LOL
